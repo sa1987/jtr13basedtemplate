@@ -1,3 +1,2 @@
-down-the-rabbit-hole
-the-pool-of-tears
-a-caucus-race-and-a-long-tale
+chapter-1-introduction-to-open-science
+chapter-2-open-research-open-data-open-access
