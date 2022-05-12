@@ -1,9 +1,11 @@
 ---
-title: "04_Chapter_4_Research_data_lifecycle"
+title: "05_Chapter_5_FAIR_principles"
 author: "Aswathi"
 date: "12/05/2022"
 output: html_document
 ---
 
-# Research data lifecycle
+
+# FAIR principles
 ## R Markdown
+

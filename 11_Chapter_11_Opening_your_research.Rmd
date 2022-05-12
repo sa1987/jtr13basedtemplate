@@ -1,10 +1,10 @@
 ---
-title: "Coding and other skills"
+title: "Opening your research"
 author: "Aswathi"
 date: "12/05/2022"
 output: html_document
 ---
 
-# Coding and other skills
+# Opening your research
 
 ## R Markdown
